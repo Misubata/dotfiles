@@ -6,7 +6,7 @@ My personal dotfiles, managed with symlinks.
 
 - **nvim** — Neovim config (kickstart-based, vim.pack)
 - **tmux** — psmux/tmux config
-- **git** — gitconfig (without personal info)
+- **git** — gitconfig
 - **powershell** — PowerShell profile with [Oh My Posh](https://ohmyposh.dev/) (Windows only)
 
 ## TODO
