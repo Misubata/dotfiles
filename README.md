@@ -11,7 +11,7 @@ My personal dotfiles, managed with symlinks.
 
 ## TODO
 
-- [ ] Add .zshrc
+- [x] Add .zshrc
 
 ## Setup
 
